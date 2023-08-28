@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42822099629",
+    "project_id": "fir-unitydemo-a6806",
+    "storage_bucket": "fir-unitydemo-a6806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42822099629:android:35cf6258560b7636df9c24",
+        "android_client_info": {
+          "package_name": "com.Bubbles.UserRegistrationSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42822099629-vdhvfknhr7qiuqu3416q5mj8upd31ibf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYg-9euEeD66enSRUPQNDa2uNXJFmdMBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42822099629-vdhvfknhr7qiuqu3416q5mj8upd31ibf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
